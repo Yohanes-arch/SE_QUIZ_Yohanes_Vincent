@@ -11,5 +11,10 @@ Here's
 
 # Installation
 
-**1. Python**
-```python3 -m venv venv```
+**1. Create Virtual Environment**
+```
+. python3 -m venv venv
+```
+```
+. env/Scripts/activate
+```
