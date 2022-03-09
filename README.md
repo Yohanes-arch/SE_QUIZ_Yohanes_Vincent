@@ -23,7 +23,7 @@ Activate the venv
 ```
 
 **2. Installing Requirement**
--Download this repository, inside this folder there is requirement.txt
+Download this repository, inside this folder there is requirement.txt
 
 Install the required libraries/packages for this project
 ```
