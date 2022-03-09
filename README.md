@@ -30,6 +30,8 @@ Activate the venv
 Copy all the requirement file inside 'foldername'
 
 
+
+
 **2. Installing Requirement**
 
 
@@ -39,6 +41,8 @@ Install the required libraries/packages for this project
 ```
 pip3 install -r requirements.txt
 ```
+
+
 
 **3. Run the file**
 
@@ -50,6 +54,8 @@ in cmd, type
 ```
 python main.py
 ```
+
+
 
 **4. Deactivate venv**
 run this command 
