@@ -9,5 +9,5 @@ If you decide to run this file in PyCharm, you can easily open project in PyChar
 But if you decide to run this file in another IDE, you should create virtual environment first in order to run the code.
 Here's
 
-# SE_QUIZ_Yohanes_Vincent
-1. 
+# Installation
+1. python3 -m venv venv
