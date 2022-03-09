@@ -12,4 +12,4 @@ Here's
 # Installation
 
 **1. Python**
-python3 -m venv venv
+```python3 -m venv venv```
