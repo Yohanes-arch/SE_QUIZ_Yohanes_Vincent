@@ -10,4 +10,6 @@ But if you decide to run this file in another IDE, you should create virtual env
 Here's
 
 # Installation
-1. python3 -m venv venv
+
+**1. Python**
+python3 -m venv venv
