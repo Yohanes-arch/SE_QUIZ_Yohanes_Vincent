@@ -12,6 +12,8 @@ Here's
 # Installation
 
 **1. Create Virtual Environment**
+
+
 Install virtual environment in terminal using this command
 ```
 . python3 -m venv venv
@@ -23,6 +25,8 @@ Activate the venv
 ```
 
 **2. Installing Requirement**
+
+
 Download this repository, inside this folder there is requirement.txt
 
 Install the required libraries/packages for this project
